@@ -1,3 +1,4 @@
+*
 !.gitignore
 !bin/setup
 !bin/tmux-sessionizer
